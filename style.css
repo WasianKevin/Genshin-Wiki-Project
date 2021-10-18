@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap");
+
+* {
+  font-family: "Roboto";
+  padding: 0px;
+  margin: 0px;
+  text-decoration: none;
+}
+
+.BannerBackground {
+  background-image: url("./öbanner.jpg");
+  background-size: cover;
+  padding: 20px;
+
+}
+
+.Bannerlogo img {
+  width: 150px;
+  height: auto;
+  border: floralwhite;
+}
+
+.Characters {
+width: 25%;
+margin-left: 42%;
+display: block;
+}
+
+.Artifacts {
+display: block;
+width: 25%;
+margin-left: 49%;
+margin-top: -1.3%;
+
+}
+
+.Weapons {
+display: block;
+width: 25%;
+margin-left: 56%;
+margin-top: -1.3%;
+}
+
