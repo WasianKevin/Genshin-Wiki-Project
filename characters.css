@@ -1,0 +1,19 @@
+
+body {
+    background-image: url("./ögrey-abstract-download.jpg");
+  
+}
+
+.ElementsRow1 {
+    size-adjust: 10%;
+    display: flex;
+    gap: 5%;
+    justify-content: center;
+}
+
+.ElementsRow2 {
+    size-adjust: 10%;
+    display: flex;
+    gap: 5%;
+    justify-content: center;
+}
