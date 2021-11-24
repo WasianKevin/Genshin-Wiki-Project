@@ -1,0 +1,64 @@
+.Barbara img {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .Barbara {
+    border: 1px black solid;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+  }  
+
+  .Mona img {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .Mona {
+    border: 1px black solid;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+  }  
+
+  .SangonomiyaKokomi img {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .SangonomiyaKokomi {
+    border: 1px black solid;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+  }  
+  
+  .Tartaglia img {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .Tartaglia {
+    border: 1px black solid;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+  } 
+  
+  .Xingqiu img {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .Xingqiu {
+    border: 1px black solid;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+  } 

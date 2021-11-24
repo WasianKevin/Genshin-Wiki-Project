@@ -7,6 +7,17 @@
   text-decoration: none;
 }
 
+
+h1 {
+  font-size: 400%;
+  font-family:sans-serif;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  text-align: center;
+  width: 100%;
+  color: rgb(0, 0, 0);
+
+}
 h2 {
   font-size: 275%;
   margin-top: 1%;
@@ -18,21 +29,18 @@ h2 {
 
 h3 {
   font-size: 175%;
-  margin-top: 40px;
+  margin-top: 2.5%;
   margin-bottom: 1%;
-  margin-left: 100px;
-  margin-right: 100px;
-  width: 100%;
+  padding-left: 75px;
+  margin-right: 75px;
   color: rgb(0, 0, 0);
 }
 
 h4 {
   font-size: 100%;
   color: rgb(0, 0, 0);
-  margin-right: 5px;
-  margin-left: 100px;
-  margin-top: 40px;
-  text-align: center;
+  margin-right: 5%;
+  margin-top: 1.8%;
 }
 
 .BannerBackground {
@@ -61,37 +69,90 @@ h4 {
   margin-bottom: 40%;
 }
 
-.Amber img {
-  margin-left: 1%;
-  margin-top: 1%;
-  margin-bottom: 1%;
-}
-
-.Amber {
-  border: 1px black solid;
-  margin-left: 5%;
-  margin-right: 5%;
-  display: flex;
-}
-
-.Bennett img {
-  margin-left: 1%;
-  margin-top: 1%;
-  margin-bottom: 1%;
-}
-
-.Bennett {
-  border: 1px black solid;
-  margin-left: 5%;
-  margin-right: 5%;
-  display: flex;
-  flex-direction: row;
-}
 
 .star {
-  width: 10%;
+  width: 7%;
   height: min-content;
-  padding-left: 0%;
-  padding-top: 30px;
-  margin-right: 50px;
+  padding-top: 2.5%;
+  margin-right: 2%;
+}
+
+@media (max-width: 600px){
+  * {
+    font-family: "Roboto";
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+  }
+  
+  
+  h1 {
+    font-size: 400%;
+    font-family:sans-serif;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    text-align: center;
+    width: 100%;
+    color: rgb(0, 0, 0);
+  
+  }
+  h2 {
+    font-size: 275%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    text-align: center;
+    width: 100%;
+    color: rgb(0, 0, 0);
+  }
+  
+  h3 {
+    font-size: 175%;
+    margin-top: 2.5%;
+    margin-bottom: 1%;
+    padding-left: 75px;
+    margin-right: 75px;
+    color: rgb(0, 0, 0);
+  }
+  
+  h4 {
+    font-size: 100%;
+    color: rgb(0, 0, 0);
+    margin-right: 5%;
+    margin-top: 1.8%;
+  }
+  
+  .BannerBackground {
+    background-image: url("./Pictures/öbanner.jpg");
+    background-size: cover;
+    padding: 20px;
+  }
+  
+  .Bannerlogo img {
+    width: 150px;
+    height: auto;
+    border: floralwhite;
+  }
+  
+  .buttons {
+    display: flex;
+    gap: 1%;
+    justify-content: flex-end;
+    margin-right: 2%;
+  }
+  
+  .buttons1 {
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 40%;
+  }
+  
+  
+  .star {
+    width: 7%;
+    height: min-content;
+    padding-top: 2.5%;
+    margin-right: 2%;
+  }
+  
 }
