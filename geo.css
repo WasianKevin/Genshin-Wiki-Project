@@ -1,0 +1,65 @@
+.Albedo img {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .Albedo {
+    border: 1px black solid;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+  }
+  
+  .Ningguang img {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .Ningguang {
+    border: 1px black solid;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+  }
+  
+  .Noelle img {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .Noelle {
+    border: 1px black solid;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+  }
+  
+  .Traveler img {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .Traveler {
+    border: 1px black solid;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+  }
+  
+  .Zhongli img {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .Zhongli {
+    border: 1px black solid;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+  }
+  
